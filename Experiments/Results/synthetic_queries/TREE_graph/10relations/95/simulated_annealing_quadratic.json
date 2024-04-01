@@ -1,0 +1,1 @@
+[{"time": 385.9736919403076, "join_order": [0, 9, 2, 5, 6, 8, 7, 3, 1, 4], "costs": 33969573, "fallback": false}, {"time": 772.6495265960693, "join_order": [9, 0, 5, 6, 8, 3, 7, 1, 4, 2], "costs": 32278091, "fallback": true}, {"time": 1515.6025886535645, "join_order": [4, 9, 0, 5, 6, 8, 7, 1, 2, 3], "costs": 31945999, "fallback": true}]
